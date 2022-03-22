@@ -11,15 +11,25 @@ tabs:
           - Anthony Arendt
           - Charley Haley
           - Jessica Scheick
+        resources:
+        - title: "Welcome and Project Session Slides"
+          url: https://docs.google.com/presentation/d/13eMHSXoA8OlLyCCFpGZ_WJM_fEoO7ewmumu5WGxLtIk/edit?usp=sharing
+        - title: 'Video Recording'
+          url: https://www.youtube.com/watch?v=-FoNmbDWozM
       - time: 10:00 - 10:30
         location: Zoom
         title: Overview of ICESat-2 Mission
         description:
         leads:
           - Tom Neumann
+        resources:
+        - title: "ICESat-2 Mission Slides"
+          url: https://drive.google.com/file/d/1FreEymYptmOn5xs3wQ-BGF1xJocor7Ch/view?usp=sharing
+        - title: 'Video Recording'
+          url: https://www.youtube.com/watch?v=ETDbnmtiado
       - time: 10:30 - 10:45
         title: Movement and coffee break
-        description: 
+        description:
         leads: [ ]
       - time: 10:45 - 11:30
         location: Zoom
@@ -29,25 +39,29 @@ tabs:
           - Scott Henderson
           - Joachim Meyer
           - Daniel Shapero
+        resources:
+          - title: 'Video Recording'
+            url: https://www.youtube.com/watch?v=mFaM41fRRcY
       - time: 11:30 - 12:00
         location: Zoom
         title: Project Ideation
         description: A chance to learn about existing project ideas and pitch new ones.
         leads:
           - Charley Haley
+          - Axel Schweiger
+          - Anthony Arendt
       - time: 12:00 - 1:00
         title: Lunch
-        description: 
+        description:
         leads: [ ]
-      - time: 1:00 - 2:15
+      - time: 1:00 - 2:00
         location: Zoom
         title: Formation of Hacking Projects
         description: Time to breakout into small groups and find out which project is the best fit for you.
         leads:
-          - Axel Schweiger
           - Charley Haley
           - Anthony Arendt
-      - time: 2:15 - 3:00
+      - time: 2:00 - 3:00
         location: Zoom
         title: Project Set up and Logistics
         description: Meet your teammates, figure out how/when you want to meet and communicate.
@@ -69,7 +83,7 @@ tabs:
           - Naomi Alterman
       - time: 10:30 - 10:45
         title: Movement and coffee break
-        description: 
+        description:
         leads: [ ]
       - time: 10:45 - 12:00
         location: Zoom
@@ -79,7 +93,7 @@ tabs:
           - Mikala Beig
       - time: 12:00 - 12:45
         title: Lunch
-        description: 
+        description:
         leads: [ ]
       - time: 12:45 - 2:00
         location: Zoom
@@ -112,7 +126,7 @@ tabs:
           - Tasha Snow
       - time: 10:30 - 10:45
         title: Movement and coffee break
-        description: 
+        description:
         leads: [ ]
       - time: 10:45 - 11:45
         location: Zoom
@@ -123,7 +137,7 @@ tabs:
           - Wei Ji Leong
       - time: 11:45 - 12:30
         title: Lunch
-        description: 
+        description:
         leads: [ ]
       - time: 12:30 - 1:30
         location: Zoom
@@ -154,13 +168,13 @@ tabs:
           - Zheng Liu
       - time: 10:00 - 10:15
         title: Movement and coffee break
-        description: 
+        description:
         leads: [ ]
       - time: 10:15 - 11:15
         location: Zoom
         title: Flexible schedule time
         description: We'll fill this time in as we get closer to it. It may include additional content, an opportunity to share code, or something else.
-        leads: 
+        leads:
           - Jessica Scheick
           - Anthony Arendt
       - time: 11:15 - 12:15
@@ -171,7 +185,7 @@ tabs:
           - Tasha Snow
       - time: 12:15 - 1:00
         title: Lunch
-        description: 
+        description:
         leads: [ ]
       - time: 1:00 - 1:30
         location: Zoom
@@ -193,13 +207,13 @@ tabs:
         leads: [ ]
       - time: 10:00 - 10:15
         title: Movement and coffee break
-        description: 
+        description:
         leads: [ ]
       - time: 10:15 - 10:30
         location: Zoom
         title: Hackweek evaluation
         description: We will invite you to complete an evaluation survey so that we can learn how to continue to improve hackweeks in the future.
-        leads: 
+        leads:
           - Anthony Arendt
       - time: 10:30 - 12:15
         location: Zoom
@@ -208,7 +222,7 @@ tabs:
         leads: [ ]
       - time: 12:15 - 1:00
         title: Lunch
-        description: 
+        description:
         leads: [ ]
       - time: 1:00 - 2:00
         location: Zoom
@@ -219,7 +233,7 @@ tabs:
       - time: 2:00 - 2:10
         location: Zoom
         title: Wrap up and gratitude
-        description: 
+        description:
         leads:
           - Anthony Arendt
           - Jessica Scheick
